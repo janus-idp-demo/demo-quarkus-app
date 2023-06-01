@@ -1,4 +1,4 @@
-# demo-quarkus-app 3
+# demo-quarkus-app 4
 
 This is backend Quarkus Application that handles REST APIs for demo purposes
 
