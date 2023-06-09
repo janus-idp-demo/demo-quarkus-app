@@ -1,6 +1,6 @@
 # demo-quarkus-app
 
-This is backend Quarkus Application that handles REST APIs for demo purposes
+This is backend Quarkus Application that handles REST APIs for demo purposes.
 
 ## Running the application in dev mode
 
